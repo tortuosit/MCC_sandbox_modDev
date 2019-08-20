@@ -16,7 +16,7 @@ Author:
 	Spirit
 ---------------------------------------------------------------------------- */
 
-private ["_group", "_buildings ","_max","_i","_wp","_pos"];
+private ["_group","_buildings","_max","_i","_wp","_pos"];
 _group 		 = _this select 0;
 _pos			 = _this select 1;
 
